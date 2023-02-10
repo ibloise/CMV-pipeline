@@ -1,0 +1,20 @@
+{
+    "UL54":
+    {
+        "gene_name" : "UL54",
+        "protein_name" : "DNA polymerase catalytic subunit",
+        "genbank_accesion" : "AY446894",
+        "protein_id" : "AAR31619.1",
+        "strain" : "HCMV-Merlin",
+        "sequence_path" : "./ref/ul54/UL54.fasta"  
+    },
+    "UL97":
+    {
+        "gene_name" : "UL97",
+        "protein_name" : "tegument serine/threonine protein kinase",
+        "genbank_accesion" : "AY446894",
+        "protein_id" : "AAR31648.1",
+        "strain" : "HCMV-Merlin",
+        "sequence_path" : "./ref/ul97/UL97.fasta"
+    }
+}
